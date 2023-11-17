@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vP3vw8ly3SD7m8XV3vbEmR6qsUYLpRZbT7PQdYAYjE/IOcyOEwqZcXA9OvK0m/BtwHq1ycIbP73r1GZNAhBp0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Roman\\Desktop\\P14_Lesson_03_11-product_shop\\Lesson_10_11\\Lesson_10_11.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Roman\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
